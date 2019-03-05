@@ -9,8 +9,8 @@ public class Anagram {
 		String str1 = "String one";
 		String str2 = "String one";
 		
-		str1.toCharArray();
-		str2.toCharArray();
+		char [] str11 = str1.toCharArray();
+		char str22 []= str2.toCharArray();
 
 		sindAnagramme(str1, str2);
 		
